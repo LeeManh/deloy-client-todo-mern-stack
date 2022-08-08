@@ -6,7 +6,7 @@ ReactJs, React bootstrap, Axios, ContextApi
 
 ## BE
 
-ExpressJs, MongoDb, Mongoose
+ExpressJs, MongoDb, Mongoose, JsonWebToken
 
 https://github.com/LeeManh/server-todo-mern-stack
 
